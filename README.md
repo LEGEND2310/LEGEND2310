@@ -54,7 +54,7 @@
 </td>
 <td align="center" width="20%">
 <div><b><center>Go Lang</center></b></div> 
-<img height=55px src="https://en.wikipedia.org/wiki/Go_(programming_language)#/media/File:Go_Logo_Blue.svg"> 
+<img height=55px src="https://miro.medium.com/max/3152/1*Ifpd_HtDiK9u6h68SZgNuA.png"> 
 </td>
  <td align="center" width="20%">
 <div><b><center>Scikit-learn</center></b></div> 
