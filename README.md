@@ -27,7 +27,7 @@
 </td>
 <td align="center" width="20%">
 <div><b><center>Keras</center></b></div> 
-<img height=65px src="https://commons.wikimedia.org/wiki/File:Keras_logo.svg"> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"> 
 </td>
 <td align="center" width="20%">
  <div><b><center>Flutter</center></b></div> 
