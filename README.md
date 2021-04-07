@@ -1,4 +1,4 @@
-<h3> ❄️ ### Hello World!!👋, I am Deepak Kumar Jha</h3>
+<h3> ❄️ Hello World!!👋, I am Deepak Kumar Jha</h3>
 <!-- <h4><a href="">Personal Website</a></h4> -->
 
 
