@@ -58,7 +58,7 @@
 </td>
  <td align="center" width="20%">
 <div><b><center>Scikit-learn</center></b></div> 
-<img height=65px src="https://commons.wikimedia.org/wiki/File:Scikit_learn_logo_small.svg"> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"> 
 </td>
 </tr>
 </tbody>
