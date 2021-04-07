@@ -18,7 +18,7 @@
 <tbody>
 <tr>
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
+<div><b><center>Python</center></b></div> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"> 
 </td>
 <td align="center" width="20%">
