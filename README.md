@@ -19,7 +19,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
-<img height=65px src="https://en.wikipedia.org/wiki/Python_(programming_language)#/media/File:Python_logo_and_wordmark.svg"> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"> 
 </td>
 <td align="center" width="20%">
 <span><b><center>Tensorflow</center></b></span> 
