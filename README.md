@@ -23,11 +23,11 @@
 </td>
 <td align="center" width="20%">
 <div><b><center>Tensorflow</center></b></div> 
-<img height=65px src="https://en.wikipedia.org/wiki/TensorFlow#/media/File:TensorFlowLogo.svg"> 
+<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/640px-Tensorflow_logo.svg.png"> 
 </td>
 <td align="center" width="20%">
 <div><b><center>Keras</center></b></div> 
-<img height=65px src="https://en.wikipedia.org/wiki/Keras#/media/File:Keras_logo.svg"> 
+<img height=65px src="https://commons.wikimedia.org/wiki/File:Keras_logo.svg"> 
 </td>
 <td align="center" width="20%">
  <div><b><center>Flutter</center></b></div> 
