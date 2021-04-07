@@ -22,42 +22,42 @@
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"> 
 </td>
 <td align="center" width="20%">
-<span><b><center>Tensorflow</center></b></span> 
+<div><b><center>Tensorflow</center></b></div> 
 <img height=65px src="https://en.wikipedia.org/wiki/TensorFlow#/media/File:TensorFlowLogo.svg"> 
 </td>
 <td align="center" width="20%">
-<span><b><center>Keras</center></b></span> 
+<div><b><center>Keras</center></b></div> 
 <img height=65px src="https://en.wikipedia.org/wiki/Keras#/media/File:Keras_logo.svg"> 
 </td>
 <td align="center" width="20%">
- <span><b><center>Flutter</center></b></span> 
+ <div><b><center>Flutter</center></b></div> 
 <img height=65px src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"> 
 </td>
 <td align="center" width="20%">
-<span><b><center>Objective C & C++</center></b></span> 
+<div><b><center>Objective C & C++</center></b></div> 
 <img height=55px src="https://financesonline.com/uploads/2019/08/Microsoft-Visual-Studio-logo1.png"> 
 </td>
 </tr>
 <tr>
 <td align="center" width="20%">
-<span><b><center>Azure</center></b></span> 
+<div><b><center>Azure</center></b></div> 
 <img height=69px src="https://ktconnections.com/images/easyblog_articles/658/b2ap3_large_microsoft-azure-500x500.png"> 
 </td>
 <td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
+<div><b><center>Git</center></b></div> 
 <img height=60px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
 
 <td align="center" width="20%">
- <span><b><center>OpenCV</center></b></span> 
+ <div><b><center>OpenCV</center></b></div> 
 <img height=70px src="https://en.wikipedia.org/wiki/OpenCV#/media/File:OpenCV_Logo_with_text_svg_version.svg"> 
 </td>
 <td align="center" width="20%">
-<span><b><center>Go Lang</center></b></span> 
+<div><b><center>Go Lang</center></b></div> 
 <img height=55px src="https://en.wikipedia.org/wiki/Go_(programming_language)#/media/File:Go_Logo_Blue.svg"> 
 </td>
  <td align="center" width="20%">
-<span><b><center>Scikit-learn</center></b></span> 
+<div><b><center>Scikit-learn</center></b></div> 
 <img height=65px src="https://en.wikipedia.org/wiki/Scikit-learn#/media/File:Scikit_learn_logo_small.svg"> 
 </td>
 </tr>
@@ -70,6 +70,3 @@ If you like the Repository give it a :star: and also follow me on GitHub.
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND2310&layout=compact&theme=merko" />
 </a>
-
-
-
