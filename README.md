@@ -50,7 +50,7 @@
 
 <td align="center" width="20%">
  <div><b><center>OpenCV</center></b></div> 
-<img height=70px src="https://en.wikipedia.org/wiki/OpenCV#/media/File:OpenCV_Logo_with_text_svg_version.svg"> 
+<img height=70px src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"> 
 </td>
 <td align="center" width="20%">
 <div><b><center>Go Lang</center></b></div> 
