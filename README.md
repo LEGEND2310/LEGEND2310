@@ -65,8 +65,8 @@
 </table>
 If you like the Repository give it a :star: and also follow me on GitHub.
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LEGEND2310&show_icons=true&theme=merko" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=LEGEND2310&show_icons=true&theme=merko">
 </a>
 <a href="#">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND2310&layout=compact&theme=merko" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND2310&layout=compact&theme=merko">
 </a>
