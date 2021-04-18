@@ -70,3 +70,4 @@ If you like the Repository give it a :star: and also follow me on GitHub.
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LEGEND2310&layout=compact&theme=merko">
 </a>
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?LEGEND2310" frameborder="0"></iframe>
