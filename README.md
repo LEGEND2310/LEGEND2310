@@ -6,7 +6,7 @@
 
 * I am a machine learning and automation enthusiast.
 
-* I have experience in the field of Frontend Development, Machine Learning, Deep Learning, Computer Vision etc.💻
+* I have experience in the field of Frontend Development, Competitive Coding, Machine Learning, Deep Learning and Computer Vision.💻
 
 * Connect with me on LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/deepak-kumar-jha-1099/)
 
