@@ -2,7 +2,7 @@
 <!-- <h4><a href="">Personal Website</a></h4> -->
 
 
-* Im a third-year student of Vellore Institute Of Technology pursuing in Information Technology.
+* Im a fourth-year student of Vellore Institute Of Technology pursuing in Information Technology.
 
 * I am a machine learning and automation enthusiast.
 
